@@ -1,0 +1,82 @@
+{
+  "providerName": "OnApps Tv",
+  "lastUpdated": "2026-06-02T00:00:00-04:00",
+  "language": "en",
+  "shortFormVideos": [
+    {
+      "id": "1197042192",
+      "title": "RUFFLED FEATHERS - SEASON 1 - TEASER",
+      "shortDescription": "RUFFLED FEATHERS - SEASON 1 - TEASER",
+      "thumbnail": "https://raw.githubusercontent.com/IrfanRa/feed/refs/heads/main/ruffled-feathers.jpg",
+      "releaseDate": "2026-06-02T00:00:00-04:00",
+      "genres": [
+        "reality"
+      ],
+      "tags": [
+        "reality"
+      ],
+      "content": {
+        "dateAdded": "2026-06-02T00:00:00-04:00",
+        "duration": 59,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/1197042192.m3u8?s=6de712b48404c796fa6cdddfa8c90401c90fc12d&logging=false",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "1197019793",
+      "title": "LAS VEGAS WILDCARDS - TRAILER EPISODE 1",
+      "shortDescription": "LAS VEGAS WILDCARDS - TRAILER EPISODE 1",
+      "thumbnail": "https://raw.githubusercontent.com/IrfanRa/feed/refs/heads/main/las-vegas-wildcard.jpg",
+      "releaseDate": "2026-06-02T00:00:00-04:00",
+      "genres": [
+        "reality"
+      ],
+      "tags": [
+        "reality"
+      ],
+      "content": {
+        "dateAdded": "2026-06-02T00:00:00-04:00",
+        "duration": 98,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/1197019793.m3u8?s=9ebd83adfe99dcb8bd5886f5bd3b199360374fb0&logging=false",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "1197018635",
+      "title": "LAS VEGAS WILDCARDS - TEASER",
+      "shortDescription": "LAS VEGAS WILDCARDS - TEASER",
+      "thumbnail": "https://raw.githubusercontent.com/IrfanRa/feed/refs/heads/main/las-vegas-wildcard1.jpg",
+      "releaseDate": "2026-06-02T00:00:00-04:00",
+      "genres": [
+        "reality"
+      ],
+      "tags": [
+        "reality"
+      ],
+      "content": {
+        "dateAdded": "2026-06-02T00:00:00-04:00",
+        "duration": 75,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/1197018635.m3u8?s=fb35d062672831d8eeaab8824a6f3ca29d80aa76&logging=false",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    }
+  ]
+}
